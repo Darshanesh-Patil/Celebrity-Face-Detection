@@ -1,4 +1,4 @@
-# Celebrity-Face-Detection
+# Celebrity-Face-Detection with Recognition
 
 ## Project Description
 - The project uses a combination of face detection and face recognition algorithms to identify specific celebrities in videos. 
